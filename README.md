@@ -3,21 +3,10 @@ I am creating this project with HTML and Css. How to Create a Registration Form 
 
 Click This Link and Try it Out: https://scriptingwithsaad.github.io/simple-registration-form/
 
-Use Technology: 
-
-Html, Css
+Use Technology: Html, Css
 
 
-Clear Concept: 
-
-flex, box-shadow
+Clear Concept: flex, box-shadow
 
 
-Color:
-
-#1294fc, 
-#f6f8fb, 
-rgb(0, 0, 0, .1), 
-#dbdbdb, 
-#000, 
-fff
+Color: #1294fc, #f6f8fb, rgb(0, 0, 0, .1), #dbdbdb, #000, fff
